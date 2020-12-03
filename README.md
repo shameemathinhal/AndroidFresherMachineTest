@@ -11,4 +11,4 @@ Category:http://iroidtechnologies.in/friday/index.php?route=api/common/getCatego
 Method:Get <br /><br />
 
 
-<img src="https://github.com/shameemathinhal/AndroidMachineTestTwoYear/blob/main/Screenshot_2020-11-30-19-33-33-13.jpg" width="30%"></img>
+<img src="https://github.com/shameemathinhal/AndroidFresherMachineTest/blob/main/Screenshot_2020-12-03-11-28-05-838_com.example.friday.jpg" width="30%"></img>
